@@ -1,0 +1,3 @@
+[submodule "iec61850-fuse"]
+	path = iec61850-fuse
+	url = git@github.com:lucasoshiro/iec61850-fuse.git
